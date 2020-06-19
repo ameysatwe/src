@@ -1,2 +1,2 @@
 ## This is my test with Jekyll-Themes
-[https://ameysatwe.github.io/src/smoke.html] This is my smoke project
+[This is my smoke Project] (https://ameysatwe.github.io/src/smoke.html)
